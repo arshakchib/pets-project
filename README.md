@@ -13,8 +13,8 @@ A brief description of your project and its functionality.
 
 ## Getting Started
 Follow these steps to set up the project on your local machine.
-3. **For running project locally, run this command "npm run dev".**  
-4. **For build run this command "npm run build".**  
+1. **For running project locally, run this command "npm run dev".**  
+2. **For build run this command "npm run build".**  
 
 
 ## Notes
